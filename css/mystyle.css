@@ -190,7 +190,8 @@ span {
   width: 100%;
   height: calc(100vh - 0px); 
   
-  background: url(../img/gpvine10.jpg) center no-repeat;
+  /*background: url(../img/gpvine10.jpg) center no-repeat;  */
+  background-image: linear-gradient(to bottom right, green , orange);
   /* filter: blur(2px);
   -webkit-filter: blur(2px); */
   background-size: 100%;
