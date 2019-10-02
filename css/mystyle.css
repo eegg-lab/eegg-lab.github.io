@@ -191,7 +191,7 @@ span {
   height: calc(100vh - 0px); 
   
   /*background: url(../img/gpvine10.jpg) center no-repeat;  */
-  background-image: linear-gradient(to bottom right, green , orange);
+  background-color: rgb(6, 73, 29);
   /* filter: blur(2px);
   -webkit-filter: blur(2px); */
   background-size: 100%;
@@ -259,7 +259,7 @@ span {
   font-family: "Roboto", sans-serif;
   text-transform: uppercase;
   font-weight: 400;
-  font-size: 13px;
+  font-size: 20px;
   letter-spacing: 1px;
   display: inline-block;
   padding: 11px 36px;
@@ -733,7 +733,7 @@ outline: 1px solid #FF5733;
 #cardss {
 
   background-color: antiquewhite;
-  opacity: 0.8;
+  opacity: 0.9;
   text-align: left;
   padding: 10px;
   border: solid grey 1px;
